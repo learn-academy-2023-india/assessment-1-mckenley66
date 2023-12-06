@@ -54,5 +54,5 @@ const weekendDays = ["saturday", "sunday"]
 const dataTypes = ["number", "string", "Boolean", "undefined"]
 // console.log(typeof dataTypes.length)
 
-// a) Your answer:
+// a) Your answer:`typeof dataTypes.length` returns the data type of the length property of the array, which is a number.
 // b) Verify and explain:
